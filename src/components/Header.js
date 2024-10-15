@@ -19,12 +19,12 @@ function Header() {
           </div></div>
 
         <div className='w-[70%] h-[35%]  flex flex-col items-start gap-[15px]' >
-          <button className='button-header font-serif text-[20px] '> Home</button>
-          <button className='button-header font-serif text-[20px] '> About</button>
-          <button className='button-header font-serif text-[20px] '> Services</button>
-          <button className='button-header font-serif text-[20px] '> Work</button>
-          <button className='button-header font-serif text-[20px] '> Clients</button>
-          <button className='button-header font-serif text-[20px] '> Contact</button>
+          <a  className='button-header font-serif text-[20px]' href="#home">Home</a>
+          <a  className='button-header font-serif text-[20px]' href="#about">About</a>
+          <a  className='button-header font-serif text-[20px]' href="#services">Services</a>
+          <a  className='button-header font-serif text-[20px]' href="#work">Work</a>
+          <a  className='button-header font-serif text-[20px]' href="#clients">Clients</a>
+          <a  className='button-header font-serif text-[20px]' href="#contact">Contact</a>
         </div>
 
 

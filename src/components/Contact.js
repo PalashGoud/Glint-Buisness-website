@@ -2,7 +2,7 @@ import React from 'react'
 
 function Contact() {
   return (
-    <div className='w-[100%] h-[200vh]  relative bg-black flex  justify-center items-center flex-col gap-4  relative'>
+    <div className='w-[100%] h-[200vh]  relative bg-black flex  justify-center items-center flex-col gap-4  relative' id='contact'>
       <img className=' brightness-50 object-cover h-[200vh]' src='https://preview.colorlib.com/theme/glint/images/contact-bg.jpg'></img>
 
 

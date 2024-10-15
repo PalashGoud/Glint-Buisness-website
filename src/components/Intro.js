@@ -2,7 +2,7 @@ import React from 'react'
 
 function Intro() {
     return (
-        <div className='intro'>
+        <div className='intro'id="home">
             <img className='intro-image' src='https://preview.colorlib.com/theme/glint/images/hero-bg.jpg'></img>
             <div className='intro-content'>
                 <div className='top-contents'>

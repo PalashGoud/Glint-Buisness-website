@@ -5,7 +5,7 @@ function Clients() {
   const [move, setMove] = useState(0)
   const [Carousel, setCarousel] = useState(0)
   return (
-    <div className='w-[100%] h-[240vh] relative bg-gray-200 flex  justify-center items-center flex-col gap-3 '>
+    <div className='w-[100%] h-[240vh] relative bg-gray-200 flex  justify-center items-center flex-col gap-3 ' id='clients' >
 
       <div className='text-green-500  text-[20px] font-serif font-[600] '>Our Clients</div>
       <label className='text-black text-[58px] w-[75%] text-center font-bold'> Glint has been honored to partner up with these clients</label>

@@ -3,7 +3,7 @@ import React from 'react'
 function Work() {
   return (
    
-    <div className='w-[100%] h-[103vh] relative bg-black flex  items-center flex-col '>
+    <div className='w-[100%] h-[103vh] relative bg-black flex  items-center flex-col ' id='work' >
       <div className='w-[60%] h-[60vh] flex items-center justify-center flex-col'>
     <div className='text-green-500  text-[20px] '>Recent Works</div>
     <label className='text-white text-[50px] w-[100%] text-center font-bold'> We love what we do, check out some of our latest works</label>
