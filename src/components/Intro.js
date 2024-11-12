@@ -20,8 +20,8 @@ function Intro() {
                     <div className='ineeer-int-logo'><label>dribbble</label> <div className='intro-l-1'><i class="fa fa-dribbble" aria-hidden="true"></i></div></div>
                 </div>
                 <div className='intro-btns'>
-                    <button className='button-intro'>START A PROJECT</button>
-                    <button className='button-intro' >MORE ABOUT US</button>
+                    <button className='button-intro' href="#contact">START A PROJECT</button>
+                    <button className='button-intro'  href="#contact">MORE ABOUT US</button>
                 </div>
             </div>
         </div>
